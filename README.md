@@ -20,4 +20,7 @@
 ^FPH,1^FT49,500^A@N,50,50,NOTOMRJ.TTF^FH\^CI28^FDZ Source Han Sans^FS^CI27
 
 
-<table>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
