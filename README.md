@@ -3,8 +3,12 @@
 
 
 
-|SKU|File name|Font Name| </br>
-|P001|ANMDJ.TTF||
+|SKU        |File name|Font Name| </br>
+|56068-001  |ANMDJ.TTF||</br>
+|77840      |
+|77841
+|77848
+
 
 
 ^FT39,105^A@N,21,21,ANMDJ.TTF^FH\^CI28^FDZ Andale J^FS^CI27
