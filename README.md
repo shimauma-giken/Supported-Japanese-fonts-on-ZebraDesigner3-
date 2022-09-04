@@ -21,7 +21,7 @@
 
 ------
 # Sampels Codes to print Japanese fonts / ZPL 
-^XA　
+^XA
 ^FT39,105^A@N,21,21,ANMDJ.TTF^FH\^CI28^FDZ Andale J^FS^CI27
 ^FPH,1^FT39,171^AJN,50,50^FH\^CI28^FDZ Ja Gothic^FS^CI27
 ^FPH,1^FT42,239^AJN,50,50^FH\^CI28^FDZ Ja  Mincho^FS^CI27
