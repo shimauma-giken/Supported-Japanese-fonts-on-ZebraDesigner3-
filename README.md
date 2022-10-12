@@ -1,5 +1,5 @@
 # Supported Japanese fonts on ZebraDesigner3 
- ZebraDesigner3でサポートされているフォント一覧
+ ZebraDesigner3でサポートされているフォント一覧リスト
 
 
 | SKU | File Name | Font Name | Description |
