@@ -14,11 +14,15 @@
 | Downloadable** | NOTOMRJ.TTF | Noto Sans | JA Scaleble Gothic font |
 | Downloadable** | TT0003M.TTF | Swiss Fonts | EMEA Scalable font - Non-Japanese |
 
+<pre>
 \* Cannot install to old printers simultainiously. Latest installed font is valid.    
-\** Pre-installed to mobile printer. Download Link https://www.zebra.com/us/en/support-downloads/printer-software/printer-fonts.html   
-\*** Pre-installed to Link-OS printers.  Download Link https://www.zebra.com/us/en/support-downloads/printer-software/printer-fonts.html  
+\** Pre-installed to mobile printer.  
+    Download Link https://www.zebra.com/us/en/support-downloads/printer-software/printer-fonts.html   
+\*** Pre-installed to Link-OS printers.   　
+    Download Link https://www.zebra.com/us/en/support-downloads/printer-software/printer-fonts.html  
 \**** Unsupported on ZebraDesigner 3  
-  
+</pre>
+
 ------  
 # Sampels Codes to print Japanese fonts / ZPL   
 
