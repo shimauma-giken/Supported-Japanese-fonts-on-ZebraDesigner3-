@@ -38,6 +38,18 @@
 </pre>
 
 
+# 
+
+			収蔵文字			プリンタ対応言語・文字コード		
+Font Name	Font Design	Font Type	JIS第1水準	JIS第2水準	非漢字	Support PL	Shift JIS	Unicode
+GT24NF55.CPF	Gothic	Bitmap	x	x		CPCL	x	
+GT16NF55.CPF	Gothic	Bitmap	x	x		CPCL	x	
+Andale J	Gothic	Scalable	x	x	x	ZPL	x	x
+NOTOMRJ.TTF	Gothic	Scalable	x	x	x	ZPL	x	x
+SGMTJ.TTF	Gothic	Scalable	x	x	x	ZPL	x	x
+![image](https://user-images.githubusercontent.com/111269302/218377663-5eceb138-e4b2-422b-bb50-638c8e7e4dfa.png)
+
+
 ------
 
 # 免責事項   
